@@ -12,3 +12,5 @@ https://robert-schwartz.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Robert Schwartz 
+
+### ©️2019 Run Buddy, Inc 
