@@ -526,6 +526,10 @@ section {
   .contact-info iframe {
     flex: 1 100%;
   }
+
+  .hero-cta {
+    width: 80%;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -554,7 +558,12 @@ section {
   .step-text {
     flex: 100%;
   }
+
+  .hero-cta {
+    width: 80%;
+  }
 }
+
 @media screen and (max-width: 575px) {
   .hero-form button {
     width: 100%;
@@ -578,5 +587,9 @@ section {
 
   .contact-info > * {
     flex: 0 100%;
+  }
+
+  .hero-cta {
+    width: 80%;
   }
 }
