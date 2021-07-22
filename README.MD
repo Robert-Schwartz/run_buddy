@@ -1,5 +1,5 @@
 # Run Buddy Inc.
-
+![image](preview.png)
 ## Purpose
 A website that offers fitness training services.
 
@@ -11,6 +11,10 @@ A website that offers fitness training services.
 https://robert-schwartz.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Robert Schwartz 
+Made with ❤️ by Robert Schwartz
 
-### ©️2019 Run Buddy, Inc 
+## Contact
+Contact me with any questions
+- Github Profile: (https://github.com/Robert-Schwartz)
+- E-mail me: bschwartz23@gmail.com
+
